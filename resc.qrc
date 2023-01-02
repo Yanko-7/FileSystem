@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stylesheets/material-blue.qss</file>
+        <file>stylesheets/MacOS.qss</file>
+        <file>stylesheets/Aqua.qss</file>
+    </qresource>
+</RCC>

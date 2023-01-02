@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/r">
+        <file>att.png</file>
+        <file>del.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>w2.png</file>
+        <file>document.png</file>
+        <file>folder.png</file>
+    </qresource>
+</RCC>
